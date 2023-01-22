@@ -1,9 +1,15 @@
+/*
+ * 
+ * @author Sofiane0x626
+ * 
+ */
+
 public class Privacy {
 	
 	private static String encryption = "ABCDEFGH IJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz></-,._:;?=!*+[](){}"
 	,                     decryption = ";5klXcO_d:6hisjpef -r8aVbY/tQuF>GvRxWyCK<zAgBT7U1D,EqH.I0JL3MSmZn9o2NP4w!?*=+(){}[]";
 	
-	// this class is for encryption, it uses cesar methode to encrypt and decrypt messages, every character is
+	// this class is for encryption, it uses cesar algorithm to encrypt and decrypt messages, every character is
 	//associated with another character, what gives privacy	if messages where seen by someone from outside users class
 	
 		public static String encryption(String message){
