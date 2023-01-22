@@ -1,3 +1,9 @@
+/*
+ * 
+ * @author Sofiane0x626
+ * 
+ */
+
 public class Store {
     
     //this class is used only for storing Strings that can make the code ugly
