@@ -9,5 +9,5 @@ then launch the server class with,
 java Server
 and start launching as much clients as you want with the commande :
 java User
-NOTE : you must launch the Server  class firstly because its TCP, if not, the app won't work propertly.
+NOTE : you must launch the Server  class firstly because its TCP, if not, the app won't work properly.
 contact me for any thing you may think i can help you with.
