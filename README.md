@@ -6,14 +6,16 @@ NOTE : Threads and Sockets were used in this project.
 to run it in your computer, make sure you already have JDK installed in your machine
 
 open TERMINAL or CMD in the directory where you cloned those java files, compile them with : 
-<code> javac * </code>
+
+<div><code> javac * </code></div>
 
 then launch the server class with : 
-<code> java Server </code>
+
+<div><code> java Server </code></div>
 
 and start launching as much clients as you want with the commande :
 
-<code> java User </code>
+<div><code> java User </code></div>
 
 NOTES : 
 you must launch the Server  class firstly because its TCP, if not, the app won't work properly.
@@ -21,5 +23,5 @@ make sure the ports are not in already use by any process.
 
 contact me for any thing you may think i can help you with.
 
-Made with <3 by "sofiane benhamza".
+<kbd>Made with <3 by "sofiane benhamza".</kbd>
 Good Luck.
